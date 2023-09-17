@@ -1,7 +1,6 @@
-# SLMCS-HomeWork
-This was homework for SLMCS Coding Club (Web Development Practice).
-I used Java on the IntelliJ IDE.
+# Saint Louis Modern Chinese School Student Sorter
 
-The task was to seperate the two CSV files and compare student IDs to see how many classes they were taking.
+This program is intended to merge the information on two csv files from registration records to identify which students had taken how many classes this year.
 
-The final.txt and the final.csv is the output with "English_Name" and "Number_Of_Classes" as the columns.
+The current two csv files were the records for the year 2021.
+Current program will work for future records as well!
